@@ -1,5 +1,0 @@
-file1
-
-isi 4
-isi 5
-
